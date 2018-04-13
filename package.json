@@ -1,0 +1,23 @@
+{
+  "name": "cajuncodefest2018",
+  "version": "1.0.0",
+  "description": "asd",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NolanMarone/CajunCodeFest2018.git"
+  },
+  "author": "Nolan Marone <npmarone@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NolanMarone/CajunCodeFest2018/issues"
+  },
+  "homepage": "https://github.com/NolanMarone/CajunCodeFest2018#readme",
+  "dependencies": {
+    "knex": "^0.14.6",
+    "pg": "^7.4.1"
+  }
+}
